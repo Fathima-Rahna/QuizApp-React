@@ -1,0 +1,16 @@
+
+/* App.css */
+
+.bg-custom {
+  /* background-color: #6cb2eb; Your desired shade of blue */
+  background-color: #D8BFD8;
+}
+
+.correct{
+  background-color: rgb(54, 220, 54);
+  border-color: green;
+}
+.wrong{
+  background-color: rgba(255, 0, 0, 0.581);
+  border-color:red ;
+}
